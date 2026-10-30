@@ -1,6 +1,6 @@
 ### Hi, I'm Mayank
 
-Lead Customer Success Manager at **WattMonk**, moving into AI product management. 7+ years in B2B, from engineering to customer success to GTM leadership. **Open to AI PM roles.**
+Lead Customer Success Manager moving into AI product management. 7+ years in B2B, from engineering to customer success to GTM leadership. **Open to AI PM roles.**
 
 **How I work:** start with the customer problem, write the PRD, then build a working prototype to test it. Each project here has the product thinking and the code.
 
