@@ -1,23 +1,15 @@
-### Hi, I'm Mayank
+# Mayank Udaywal
 
-Lead Customer Success Manager moving into AI product management. 7+ years in B2B, from engineering to customer success to GTM leadership. **Open to AI PM roles.**
+I’m a B2B customer success lead with 7+ years across engineering, customer success, and GTM. I build and evaluate prototypes for support and operations teams. **Open to AI Product Manager roles.**
 
-**How I work:** start with the customer problem, write the PRD, then build a working prototype to test it. Each project here has the product thinking and the code.
+[Connect on LinkedIn](https://www.linkedin.com/in/mayankudaywal)
 
-#### Projects
+## Selected projects
 
-| Project | What it shows |
+| Project | What I tested |
 | --- | --- |
-| **[CyberShield Triage](https://github.com/mayankud/cybershield-triage)** · [live demo](https://mayankud.github.io/cybershield-triage/) | AI alert-triage copilot for security teams. Product strategy, a PRD with evals and guardrails, and a working prototype that resists prompt injection |
-| **[Solar CSM Dashboard](https://github.com/mayankud/solar-csm-dashboard)** | Customer health dashboard for a solar services business, on synthetic data |
+| **[Agent Quality Desk](https://github.com/mayankud/agent-quality-desk)** · [Case study](https://github.com/mayankud/agent-quality-desk/blob/main/CASE_STUDY.md) | Can a QA tool verify what a support bot tells a customer? I set the release criteria before the 62-case blind evaluation and kept Phase 0 closed when claim checking and clean billing fell short. |
+| **[CyberShield Triage](https://github.com/mayankud/cybershield-triage)** · [Live demo](https://mayankud.github.io/cybershield-triage/) | A rules-based tool that helps security analysts prioritize alerts, understand the score, and flag instruction-like text in logs. |
+| **[Customer Pulse](https://github.com/mayankud/solar-csm-dashboard)** · [Validation report](https://github.com/mayankud/solar-csm-dashboard/blob/main/CSM-Stress-Test-Report.md) | A customer success workspace that turns synthetic activity, renewals, and risk signals into an evidence-backed account review queue. |
 
-#### What I bring to product
-
-- Customer discovery from years of escalations, renewals and client health
-- Turning messy operations into metrics, dashboards and SOPs
-- AI product skills: PRDs, eval design, guardrails, human-in-the-loop UX
-- Prototyping in JavaScript and Python with AI coding tools
-
-#### Currently
-
-- IBM AI Product Manager certificate (Coursera)
+I start with the workflow and the decision a user needs to make. Then I write the requirements, build a prototype, and test where it falls short.
