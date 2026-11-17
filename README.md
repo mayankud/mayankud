@@ -2,8 +2,6 @@
 
 I’m a B2B customer success lead with 7+ years across engineering, customer success, and GTM. I build and evaluate prototypes for support and operations teams. **Open to AI Product Manager roles.**
 
-[Connect on LinkedIn](https://www.linkedin.com/in/mayankudaywal)
-
 ## Selected projects
 
 | Project | What I tested |
